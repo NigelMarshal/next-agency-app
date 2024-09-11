@@ -5,7 +5,7 @@ A full stack NextJS POC. It includes various features such as user authenticatio
 ## Technologies Used
 
 - **Next.js**
-- **React**:
-- **NextAuth.js**:
-- **Mongoose**:
-- **CSS Modules**:
+- **React**
+- **NextAuth.js**
+- **Mongoose**
+- **CSS Modules**
